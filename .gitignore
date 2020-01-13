@@ -21,3 +21,8 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
+# Node modules
+node_modules
+wp_content/plugins/*/node_modules
+wp_content/themes/*/node_modules
